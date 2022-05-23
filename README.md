@@ -2,7 +2,7 @@
 - 👀 estou interessado em apreder a fazer uma página.
 - 🌱 estou aprendendo a criar uma pagina no momento..
 - 💞️ ...
-- 📫 eu moro no Paraná
+- 📫 
 
 <!---
 eduardaferreir/eduardaferreir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
